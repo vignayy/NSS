@@ -6,7 +6,6 @@
     <title>NSS UNIT MVSREC</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='styles.css'>
-    <script src='main.js'></script>
     <link rel="icon" type="image/ico" href="res/NSSico.ico">
 
     <!-- Jetpack Open Graph Tags -->
@@ -26,12 +25,17 @@
 <body>
   <div class="header">
     <div class="logo left-logo">
-      <img src="res/nssLogo.png" alt="logo" />
+      <a href="index.html">
+        <img src="res/nssLogo.png" alt="logo" />
+      </a>
     </div>
     <div class="header-text">NSS UNIT MVSREC</div>
-    <div class="logo right-logo">
-      <img src="res/mvsrLogo.png" alt="logo" />
-    </div>
+    <a href="https://mvsrec.edu.in/" target="_blank">
+      <div class="logo right-logo">
+        <img src="res/mvsrLogo.png" alt="logo" />
+      </div>
+    </a>
+    
   </div>
     <!-- <img id="logo" src="res/nssLogo.png" alt="NSS Logo"> -->
     <!-- <img id="logo" src="res/nssLogo.png" srcset="res/nssLogo.png 1000w, res/nssLogo.png 15000w" alt="NSS Logo"> -->
@@ -50,59 +54,26 @@
         </p>
     </div>
 
-    <div class="events-container">
-      <div class="event-item">
-        <div class="event-image">
-          <img src="res/nssLogo.png" alt="Event photo 1">
-        </div>
-        <div class="event-details">
-          <div class="event-date">
-            <span>March 12, 2024</span>
-          </div>
-          <h2>Event Name</h2>
-          <p>
-            Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details
-          </p>
-          <button class="learn-more-btn">Learn More</button>
-        </div>
-      </div>
-    </div>
+    <div class="events-container" id="events-container"></div>
 
-    <div class="events-container">
+    <template id="event-template">
       <div class="event-item">
-        <div class="event-image">
-          <img src="res/nssLogo.png" alt="Event photo 1">
-        </div>
-        <div class="event-details">
-          <div class="event-date">
-            <span>March 12, 2024</span>
+          <div class="event-image">
+              <img src="" alt="Event photo">
           </div>
-          <h2>Event Name</h2>
-          <p>
-            Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details
-          </p>
-          <button class="learn-more-btn">Learn More</button>
-        </div>
+          <div class="event-details">
+              <div class="event-date">
+                  <span></span>
+              </div>
+              <h2></h2>
+              <p></p>
+              <button class="learn-more-btn">Learn More</button>
+          </div>
       </div>
-    </div>
+    </template>
 
-    <div class="events-container">
-      <div class="event-item">
-        <div class="event-image">
-          <img src="res/nssLogo.png" alt="Event photo 1">
-        </div>
-        <div class="event-details">
-          <div class="event-date">
-            <span>March 12, 2024</span>
-          </div>
-          <h2>Event Name</h2>
-          <p>
-            Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details Event Details
-          </p>
-          <button class="learn-more-btn">Learn More</button>
-        </div>
-      </div>
-    </div>
+    <!-- JavaScript -->
+    <script src="main.js"></script>
     
 </body>
 </html>
