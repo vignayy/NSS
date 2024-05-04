@@ -1,0 +1,32 @@
+/* Navbar styles */
+.navbar {
+    background-color: #fff; /* White background */
+    border-bottom: 1px solid #ddd; /* Gray border at the bottom */
+    border-top: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding: 10px 0; /* Padding for links */
+    text-align: center; /* Center align links */
+  }
+  
+  .navbar ul {
+    list-style-type: none; /* Remove bullet points from the list */
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar li {
+    display: inline; /* Display links horizontally */
+    margin-right: 20px; /* Space between links */
+  }
+  
+  .navbar a {
+    text-decoration: none; /* Remove underline from links */
+    color: #333; /* Dark text color */
+    padding: 5px 10px; /* Padding for each link */
+    transition: color 0.3s ease; /* Smooth color transition on hover */
+  }
+  
+  .navbar a:hover {
+    color: #4CAF50; /* Green color on hover */
+  }
+  
