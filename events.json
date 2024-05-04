@@ -1,23 +1,198 @@
 [
     {
-        "title": "Event 1",
-        "description": "Our NSS team visited ZPHS School, kurmalguda on the occasion of Children’s Day, engaging in enjoyable activities with the students✨. The experience was filled with fun and meaningful interactions, creating lasting memories for everyone involved.",
-        "image": "res/childernsDay.jpg",
-        "date": "March 12, 2024",
+        "title": "NATIONAL HEALTH DAY",
+        "description": "The NSS UNIT-MVSREC organized a vibrant event to commemorate National Health Day, focusing on raising awareness about health-related issues and promoting a healthy lifestyle. The event included an enlightening seminar by Dr. T. Thrivikram and a free health camp offering various medical services and personalized counseling.",
+        "date": "April 6, 2024",
+        "image": "imgs/health_day.jpeg",
+        "link": "https://mvsrec.edu.in"
+    },
+    
+    {
+        "title": "ORPHANAGE DONATION DRIVE",
+        "description": "The NSS UNIT-MVSREC organized a donation drive to support orphanages and children's homes in need, providing essential supplies and resources to enhance the well-being and quality of life for vulnerable children. Funds from the 'Colors for a Cause' event were redirected to this cause, showing compassion and empathy towards immediate community needs.",
+        "date": "February 12, 2024",
+        "image": "imgs/dDrive3.jpeg",
+        "link": "https://example.com/orphanagedonationdrive2024"
+    },
+    
+    {
+        "title": "COLOURS FOR A CAUSE",
+        "description": "The NSS UNIT-MVSREC organized a rangoli competition, 'Colours for a Cause', to promote creativity and raise funds for farmers in need. The event attracted 58 teams and 180 participants, showcasing vibrant designs and contributing to a noble cause. Prizes were awarded to top designs, and funds raised were donated to support farmers.",
+        "date": "January 11, 2024",
+        "image": "imgs/health_day.jpeg",
+        "link": "https://example.com/coloursforacause2024"
+    },
+    
+    {
+        "title": "FARMER'S DAY",
+        "description": "The Farmer's Day event provided volunteers with a profound understanding of farming challenges. Activities included cotton plucking and assisting farmers, fostering a direct connection with their hard work. Insightful conversations, cultural exchange, and a reflection session highlighted the importance of supporting farmers and cultivating empathy and awareness.",
+        "image": "imgs/all3.jpeg",
+        "date": "December 23, 2023",
+        "link": "https://example.com/farmersday2023"
+    },
+    
+    {
+        "title": "CHILDREN'S DAY",
+        "description": "The NSS-UNIT MVSREC organized a heartwarming Children's Day event at a Government School, Kurmalguda. Volunteers engaged with students through interactive activities, spreading awareness about NSS and Children's Day. Fun activities, informative talks, and chocolate distribution brought joy and fostered a spirit of service and compassion, creating a positive impact on young minds and volunteers alike.",
+        "image": "imgs/childerns_day.jpeg",
+        "date": "November 14, 2023",
+        "link": "https://example.com/childrensday2023"
+    },
+    
+    {
+        "title": "SWACHHATA HI SEVA(SHS)-2023",
+        "description": "The Swachhata Hi Seva (Cleanliness is Service) campaign is a nationwide initiative promoting cleanliness and sanitation. The SHS-2023 theme is 'Garbage Free India' with a focus on visual cleanliness and SafaiMitras' welfare. NSS Unit MVSREC, in collaboration with SESREC, organized a cleanup event and awareness campaign in our college premises. Volunteers, students, and SESREC members actively participated, cleaning and educating about proper waste disposal. The event was a success, showcasing our commitment to social service and environmental stewardship.",
+        "image": "imgs/all3.jpeg",
+        "date": "October 1, 2023",
+        "link": "https://example.com/shs2023"
+    },
+    
+    {
+        "title": "NSS DAY",
+        "description": "NSS Day, celebrated on September 24th, commemorates the establishment of the National Service Scheme (NSS), an organization promoting social welfare and community service. To mark this occasion, NSS Unit MVSREC organized a multifaceted event including saplings plantation and a 'Wall of Kindness' initiative supporting the underprivileged. The event showcased a commitment to environmental sustainability through saplings plantation and fostered empathy and community spirit via the Wall of Kindness, which received abundant donations for those in need. Volunteers ensured the well-maintenance of the Wall and donated collected essentials to the underprivileged, reflecting the NSS Unit's dedication to positive change and service.",
+        "image": "imgs/all2.jpeg",
+        "date": "September 24, 2023",
+        "link": "https://example.com/nssDay"
+    },
+    
+    {
+        "title": "ORPHANAGE DONATION DRIVE",
+        "description": "NSS Unit MVSREC organized a donation drive specifically for a local girls' orphanage on September 17, 2023, as part of their commitment to community service. The drive aimed to provide essential supplies and support to enhance the quality of life for the girls residing in the orphanage. NSS volunteers visited Safe Charitable Foundation in Vanasthalipuram, personally handing over donations to the girls. The initiative conveyed care, support, and empowerment, leaving a positive impact on the girls' lives. This successful drive reflects the essence of community service and empathy, inspiring future endeavors in giving back to society.",
+        "image": "imgs/all3.jpeg",
+        "date": "September 17, 2023",
         "link": "https://example.com/event1"
     },
+    
     {
-        "title": "Event 2",
-        "description": "Event 2 Description...",
-        "image": "res/childernsDay.jpg",
-        "date": "April 15, 2024",
-        "link": "https://example.com/event2"
+        "title": "CLAY GANESHA ARTISTRY CHALLENGE",
+        "description": "NSS Unit-MVSREC organized a Clay Ganesha Artistry Challenge on September 16, 2023, in celebration of Ganesh Chaturthi and to promote eco-friendly practices. Participants created clay Ganesh idols, emphasizing creativity, eco-friendliness, and sustainable materials. Winners were awarded prizes based on creativity, aesthetics, use of natural materials, and environmental impact. The event showcased the importance of eco-friendly celebrations and preservation of cultural traditions.",
+        "image": "imgs/all3.jpeg",
+        "date": "September 16, 2023",
+        "link": "https://example.com/event1"
     },
+    
     {
-        "title": "Event 3",
-        "description": "Event 3 Description...",
-        "image": "res/childernsDay.jpg",
-        "date": "May 20, 2024",
-        "link": "https://example.com/event3"
-    }
+        "title": "INDEPENDENCE DAY",
+        "description": "NSS unit of MVSREC celebrated India's 77th Independence Day with fervor and patriotism. The event aimed to honor the nation's freedom struggle and foster a sense of responsibility among students towards their country. Activities included flag hoisting by Principal Dr. G. Kanaka Durga, speeches emphasizing freedom, unity, and youth's role in shaping the nation's future. The event inspired students to contribute to a better India through community service, promoting unity, and upholding democratic principles.",
+        "image": "imgs/all2.jpeg",
+        "date": "August 15, 2023",
+        "link": "https://example.com/event1"
+    },
+    
+    {
+        "title": "BLOOD DONATION DRIVE",
+        "description": "NSS-UNIT MVSREC organized a Blood Donation Drive on July 5, 2023, in collaboration with Government Hospital, Narayanpet, and ifoundation. The event aimed to raise awareness about regular blood donation, address blood shortages in healthcare centers, and encourage individuals to contribute positively to society. Around 80 volunteers actively participated in organizing and assisting donors. The drive collected 303 units of blood, received positive feedback, and helped build a database of potential donors for future drives. This successful event showcases the power of collective action and community engagement in healthcare initiatives.",
+        "image": "imgs/all3.jpeg",
+        "date": "July 5, 2023",
+        "link": "https://example.com/event1"
+    },
+    
+    {
+        "title": "INTERNATIONAL YOGA DAY",
+        "description": "NSS UNIT-MVSREC organized an event on June 21, 2023, to celebrate International Yoga Day and promote the physical, mental, and spiritual benefits of yoga. Professional yoga trainers Mr. A. Sathaiah and Mr. S. Bhasker conducted a comprehensive yoga session focusing on various asanas, pranayama, and meditation techniques. The event aimed to raise awareness about yoga's role in leading a healthy lifestyle and managing health issues. Around 50 participants actively engaged in the session, which concluded with a speech by Principal Dr. G. Kanaka Durga and felicitation of the trainers.",
+        "image": "imgs/yoga_day.jpeg",
+        "date": "June 21, 2023",
+        "link": "https://example.com/event1"
+    },
+    
+    {
+        "title": "WORLD ENVIRONMENT DAY",
+        "description": "NSS UNIT-MVSREC organized an event on June 5, 2023, to commemorate World Environment Day. The event focused on raising awareness about environmental conservation and the importance of tree planting. Volunteers conducted a tree-planting activity in the college premises under the guidance of Principal Dr. G. Kanaka Durga and NSS Program Officer Mr. A. Syam Prasad, symbolizing the college's commitment to sustainability and environmental responsibility. The event aimed to promote community service and highlight NSS's role in environmental preservation.",
+        "image": "imgs/all1.jpeg",
+        "date": "June 5, 2023",
+        "link": "https://example.com/event1"
+    },
+    
+    {
+        "title": "CPR TRAINING PROGRAM",
+        "description": "NSS UNIT-MVSREC conducted a Cardiopulmonary resuscitation (CPR) training program on April 10, 2023, in collaboration with Lions Club of Hyderabad and Kamineni Hospitals. The program aimed to educate students on basic life support and raise awareness about CPR, a life-saving technique used in emergencies. The session, attended by approximately 100 students, included a demonstration and practice of CPR techniques on a mannequin, discussions on common situations requiring CPR, and the importance of calling emergency services. The program was well-received, empowering students with life-saving skills.",
+        "image": "imgs/all3.jpeg",
+        "date": "April 10, 2023",
+        "link": "https://example.com/event1"
+    },
+    
+    {
+        "title": "International Women's Day",
+        "description": "NSS-UNIT MVSREC organized an event on March 8, 2023, to celebrate International Women's Day with the theme 'Empowering Women, Empowering Humanity: Picture it!'. The event included a painting competition on the theme of 'Empowerment of Women', games for the college's female staff, and a program at the Civil Block seminar hall. The program featured speeches, prize distribution, a PPT presentation on Women Empowerment, and fun games for faculty. It was a successful and engaging event promoting gender equality and empowerment.",
+        "image": "imgs/all2.jpeg",
+        "date": "March 8, 2023",
+        "link": "https://example.com/event1"
+    },
+    
+    {
+        "title": "HARITHAHARAM",
+        "description": "NSS-UNIT MVSREC organized the 'Harithaharam' event on February 16, 2023, to promote environmental awareness and green initiatives among students. The event witnessed the participation of principal Dr. G. Kanaka Durga, students, and faculty. A notable Chief Guest, Shri K.C. Choudhury, shared valuable insights on environmental conservation. The event included sapling planting, an entrepreneurship session by the Chief Guest, and efforts to create awareness on environmental conservation.",
+        "image": "imgs/all1.jpeg",
+        "date": "February 16, 2023",
+        "link": "https://example.com/event1"
+    },
+    
+    {
+        "title": "Black Day",
+        "description": "NSS-UNIT MVSREC organized the 'Black Day' event on February 14, 2023, to commemorate the sacrifices of soldiers in the Pulwama attack. The event paid tribute to the soldiers, raised awareness about National Security, and emphasized the importance of unity. It included speeches, singing, and a Candle March in the college premises to honor the fallen soldiers. A minute of silence concluded the program, serving as a reminder of the soldiers' sacrifices and the need for national solidarity.",
+        "image": "imgs/all2.jpeg",
+        "date": "February 14, 2023",
+        "link": "https://example.com/event1"
+    },
+    
+    {
+        "title": "World Cancer Day",
+        "description": "NSS-UNIT MVSREC conducted an awareness program on World Cancer Day at Turkayamjal village and Govt School, Nadergul. Volunteers organized a rally explaining cancer types, causes, and prevention to villagers and school students. They distributed 180 sanitary napkins to girls, encouraging their use and educating about cancer prevention and 'Good touch and Bad touch'. The event also included a fun quiz and awards.",
+        "image": "imgs/all3.jpeg",
+        "date": "February 4, 2023",
+        "link": "https://example.com/event1"
+    },    
+    
+    {
+        "title": "OLD AGE HOME DONATION DRIVE",
+        "description": "NSS-UNIT MVSREC organized an impactful Old Age Home Donation Drive on January 27, 2023, at Matrudevo Bhava Ashramam in Nadergul village. The drive aimed to raise awareness about the needs of the elderly and foster a sense of community support. Volunteers distributed three bags of rice, interacted with residents, listened to their stories, and provided emotional support, enhancing the residents' sense of belonging and companionship. The event had a positive impact on the community, showcasing the NSS team's dedication to social welfare and inclusivity.",
+        "image": "imgs/all1.jpeg",
+        "date": "January 27, 2023",
+        "link": "https://example.com/event1"
+    },       
+    
+
+    {
+        "title": "Republic Day",
+        "description": "NSS-UNIT of MVSR College conducted flag hoisting and cultural programs on Republic Day to honor the struggle for Republic India. The event included flag hoisting by Mrs. Dr. K Kanaka Durga, principal, and a parade by NCC cadets. Prizes were awarded to students for essay writing and elocution from the National Youth Day event. Energetic performances by NSS volunteers and the Drama Club highlighted the celebrations, culminating in a Flag Rally with a 50m flag in the college premises, involving about 100 students.",
+        "image": "imgs/all2.jpeg",
+        "date": "January 26, 2023",
+        "link": "https://example.com/event1"
+    },    
+    
+
+    {
+        "title": "NATIONAL YOUTH DAY",
+        "description": "NSS-UNIT MVSR organized an event on National Youth Day to commemorate Swami Vivekananda's birth anniversary. The event included competitions like Elocution and Essay writing on topics related to youth participation in Indian politics and social service. Winners will be awarded prizes on Republic Day. The event provided a platform for youth to showcase their skills and received positive feedback from participants. It was a huge success thanks to the efforts of NSS volunteers.",
+        "image": "imgs/all3.jpeg",
+        "date": "January 12, 2023",
+        "link": "https://example.com/event1"
+    },        
+
+    {
+        "title": "CHAIR FOR CHALLENGERS",
+        "description": "NSS-UNIT MVSREC organized the 'Chair for Challengers' event during the college fests on January 4th and 5th, 2023. The event aimed to raise awareness about menstrual cycle challenges faced by women and raised funds to provide sanitary pads to underprivileged girls. It included a period pain simulator stall during 'AANVIK' and 'WIDYOUTH' fests, allowing participants to experience menstrual cramps and raising funds for sanitary pads distribution. The event received an overwhelming response and positive feedback for addressing a critical issue.",
+        "image": "imgs/all1.jpeg",
+        "date": "January 4-5, 2023",
+        "link": "https://example.com/event1"
+    },    
+    
+
+    {
+        "title": "Christmas",
+        "description": "NSS-UNIT MVSREC organized a Christmas event on December 25, 2022, in the slum area of Midhani, Hyderabad. Volunteers distributed stationary among unprivileged children, encouraging them to attend school. The event positively impacted both the children, easing their studies, and the volunteers, fostering a sense of community service and joy of giving. It highlighted the impact of small acts of kindness in making a difference in people's lives.",
+        "image": "imgs/all3.jpeg",
+        "date": "December 25, 2022",
+        "link": "https://example.com/event1"
+    },    
+    
+    {
+        "title": "CONSTITUTION DAY",
+        "description": "NSS UNIT- MVSREC organized an event on November 26, 2022, to commemorate Constitution Day. Under the guidance of Mr. A. Syam Prasad, Program Officer, NSS-UNIT MVSREC, students delivered speeches on the Indian Constitution, Fundamental Rights, and citizens' role in democracy. The event aimed to educate about the Constitution's importance, provisions, and the need to uphold its principles for a better future.",
+        "image": "imgs/all2.jpeg",
+        "date": "November 26, 2022",
+        "link": "https://example.com/event1"
+    }    
+    
+
 ]
